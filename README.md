@@ -9,7 +9,6 @@ This lab simulated a scenario where a user left the company and their software a
 ## Tasks Completed
 Installed the Gmail app.
 Uninstalled the Gmail app, simulating a scenario where a user left the company and no longer needed the application.
-[NEEDS YOUR INPUT: any additional tasks you completed in this lab]
 
 ## Screenshots
 [Image Placeholder]
@@ -20,8 +19,8 @@ Software Installation & Removal
 Application Lifecycle Management
 
 ## What I Learned
-[NEEDS YOUR INPUT: this section was incomplete in what you sent — add your reflection here]
 
+This lab helped me understand the software lifecycle from installation to removal. It reinforced the importance of properly managing application access to ensure users have the tools they need while maintaining security and compliance when software is no longer required.
 ## Lab Environment
 Microsoft Azure
 Windows Environment
