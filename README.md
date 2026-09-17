@@ -1,20 +1,28 @@
-<h1>Software Installation</h1>
-This tutorial outlines the process of installing and removing applications while troubleshooting
-common software-related issues in a Windows environment.<br />
-<h2>Environments and Technologies Used</h2>
-- Microsoft Azure
-- Windows Environment
-<h2>Operating Systems Used </h2>
-- Windows 11
-<h2>Gmail App Installation</h2>
-<p>
+# Software Installation
 
+## Objective
+Install and remove applications while troubleshooting software-related issues in a Windows environment.
 
+## Scenario
+This lab simulated a scenario where a user left the company and their software access needed to be removed, alongside general application installation and removal practice.
+
+## Tasks Completed
+Installed the Gmail app.
+Uninstalled the Gmail app, simulating a scenario where a user left the company and no longer needed the application.
+[NEEDS YOUR INPUT: any additional tasks you completed in this lab]
+
+## Screenshots
 [Image Placeholder]
+[NEEDS YOUR INPUT: add any additional screenshots here]
 
-</p>
-<p>
-Installed and un-installed Goodnotes software - reviewed mock scenario if user left company
-and no longer was needed.
-</p>
-<br />
+## Skills Demonstrated
+Software Installation & Removal
+Application Lifecycle Management
+
+## What I Learned
+[NEEDS YOUR INPUT: this section was incomplete in what you sent — add your reflection here]
+
+## Lab Environment
+Microsoft Azure
+Windows Environment
+Windows 11
